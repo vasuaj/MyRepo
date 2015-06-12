@@ -1,0 +1,4 @@
+Hi
+This is a new file for Hello World...
+Created by Developer and added to git bash
+Enjoy
